@@ -55,7 +55,7 @@
     margin: 1em;
     padding: 1em;
     width: 30%;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     box-sizing: border-box;
     transition: transform 0.3s;
 }
@@ -76,7 +76,7 @@
 
 .portfolio-item img {
     max-width: 100%;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 
